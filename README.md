@@ -4,8 +4,6 @@ This code implements a line follower robot using an ESP32 microcontroller, two I
 and a dual motor driver. The robot is designed to follow a black line on a light surface
 and navigate through various path scenarios, including straight lines, curves, and acute angles.
 
-![WhatsApp Image 2024-10-15 at 11 38 28_f5ff60d4](https://github.com/user-attachments/assets/cc5849b1-6194-4cd4-b542-c64c15c74510)
-
 Key Components:
 - ESP32 microcontroller
 - Two IR sensors (LEFT_IR and RIGHT_IR)
